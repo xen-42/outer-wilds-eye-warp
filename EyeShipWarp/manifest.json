@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "EyeShipWarp.dll",
+  "author": "xen",
+  "name": "Bring your Ship to the Eye",
+  "uniqueName": "xen.EyeShipWarp",
+  "version": "0.1.0",
+  "owmlVersion": "2.7.2",
+  "dependencies": [ "xen.NewHorizons" ]
+}
